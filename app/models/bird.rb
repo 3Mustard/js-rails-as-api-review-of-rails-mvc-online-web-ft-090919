@@ -1,1 +1,2 @@
-# Add code from Readme
+class Bird < ApplicationRecord
+endrails db:see
